@@ -49,14 +49,8 @@ disqus_shortname: linarica
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
-
   - cat: just
-    desc: "Just..."
+    desc: "just..."
 
 # Social icons and sharing options
 #
