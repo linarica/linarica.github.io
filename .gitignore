@@ -1,4 +1,14 @@
+.DS_Store
+
+# Compiled site
 _site
+
+# Sass garbage
 .sass-cache
-.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# InteliJ
 .idea

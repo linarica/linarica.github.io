@@ -1,24 +1,27 @@
 ---
-layout: default
+permalink: /404.html
+layout: null
 ---
 
-<style type="text/css" media="screen">
-    .container {
-        margin: 10px auto;
-        max-width: 600px;
-        text-align: center;
-    }
-    h1 {
-        margin: 30px 0;
-        font-size: 4em;
-        line-height: 1;
-        letter-spacing: -1px;
-    }
-</style>
-
-<div class="container">
-    <h1>404</h1>
-
-    <p><strong>Page not found :(</strong></p>
-    <p>The requested page could not be found.</p>
-</div>
+<html>
+	<head>
+		<meta content='Linarica Blog' property='og:title' />
+		<title>Linarica Blog</title>
+		<link href='/assets/icons/favicon.ico' rel='shortcut icon'>
+		<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+		<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+		<meta content='{{ site.url }}' property='og:url' />
+		<meta content="{{ site.description }}" property='og:description' />
+		<meta content="blog" property="og:type" />
+	</head>
+	<style type="text/css">
+		a:link { color: red; text-decoration: none;}
+		a:visited { color: black; text-decoration: none;}
+		a:hover { color: gray; text-decoration: underline;}
+	</style>
+	<body align="center">
+		<img src="/images/404.png" alt="not found" style="padding-right: 60px;"/>
+		<br/><br/>
+		<a href="{{ site.url }}">Oops, let's go home !</a>
+	</body>
+</html>

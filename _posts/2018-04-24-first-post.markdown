@@ -1,20 +1,27 @@
 ---
 layout: post
-comments: true
-title:  "First post"
-date:   2018-04-24 11:32:23
-permalink: /first-post.html
+title:  "first post"
+date:   2018-04-24 22:12:59
+author: linarica
+categories: just
+tags:	just
+cover:  "/assets/logo.png"
 ---
-<span class="image featured"><img src="/images/201804211800.jpeg" alt=""></span>
-this is first post.
 
-블로그 스타뚜 !
-이거슨 나의 첫삽.
+# First
 
+This is my first post.
 
 {% highlight go %}
+package main
+
+import (
+  "fmt"
+)
+
 func main() {
-    fmt.Println("hello, linarica's blog")
+  fmt.Println("Hello, playground")
 }
 {% endhighlight %}
 
+[github]: https://linarica.github.io/
