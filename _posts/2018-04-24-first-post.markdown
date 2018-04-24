@@ -10,8 +10,12 @@ this is first post.
 블로그 스타뚜 !
 이거슨 나의 첫삽.
 
+{% highlight ruby %}
+
 ```go
 func main() {
     fmt.Println("hello, linarica's blog")
 }
 ```
+
+{% endhighlight %}
