@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "First post"
 date:   2018-04-24 11:32:23
 permalink: /first-post.html
