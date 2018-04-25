@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.png" title="Profile Picture" class="profile">
+<img src="/assets/profile-placeholder.jpg" title="Profile Picture"  class="profile">
 
-Hi, this is `Linarica`
+<p align="center">
+DON'T PANIC.<br>
+I'M A PROGRAMMER.<br>
+I'LL FIX YOUR PROBLEM.<br>
+</p>
 
-[github]: https://github.com/bencentra/centrarium
+[github]: https://github.com/linarica/linarica.github.io
