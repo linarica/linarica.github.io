@@ -5,12 +5,16 @@ date:   2018-04-24 22:12:59
 author: linarica
 categories: just
 tags:	just
-cover:  "/assets/logo.png"
+cover:  "/images/first_post.png"
 ---
 
 # First
 
 This is my first post.
+
+첫 삽을 푸다.
+
+# 헬로
 
 {% highlight go %}
 package main
